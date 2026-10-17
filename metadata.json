@@ -1,0 +1,8 @@
+{
+  "name": "Al Marabea Pharmacy OS",
+  "description": "نظام إدارة صيدلية المرابع الشامل: مبيعات، مشتريات، مخازن، عملاء، وموارد بشرية",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
